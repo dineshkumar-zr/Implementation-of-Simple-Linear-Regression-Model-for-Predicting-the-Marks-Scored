@@ -95,6 +95,7 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 
 ## Testing
 <img width="582" height="417" alt="image" src="https://github.com/user-attachments/assets/78c93ee5-e8fa-4650-9763-cdf397a4b300" />
+
 ```
 Mean Squared Error (MSE) = 25.463280738222547
 Mean Absolute Error (MAE) = 4.691397441397438
